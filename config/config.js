@@ -1,0 +1,1 @@
+module.exports.SEED = 'este-es-una-prueba-curso';
